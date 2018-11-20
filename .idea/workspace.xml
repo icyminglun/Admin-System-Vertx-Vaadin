@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57ff0437-c98a-4732-bc4a-ad28f09f5723" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.~lock.Tasks.odt#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DetectronV85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sample/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Vert.x/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_google_gwt_gwt_elemental_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_googlecode_gentyref_gentyref_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_helger_ph_commons_9_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_helger_ph_css_6_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_24_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_flow_client_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_flow_data_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_flow_html_components_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_flow_push_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_flow_server_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_10_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_board_flow_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_button_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_charts_flow_6_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_checkbox_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_combo_box_flow_1_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_core_10_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_date_picker_flow_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_dialog_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_form_layout_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_grid_flow_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_icons_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_iron_list_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_list_box_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_lumo_theme_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_notification_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_ordered_layout_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_progress_bar_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_radio_button_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_split_layout_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_tabs_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_text_field_flow_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_vaadin_upload_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_board_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_charts_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_codec_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_codec_dns_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_codec_http2_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_codec_http_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_codec_socks_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_common_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_handler_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_handler_proxy_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_resolver_dns_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_netty_netty_transport_4_1_19_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_vertx_vertx_auth_common_3_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_vertx_vertx_bridge_common_3_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_vertx_vertx_core_3_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_vertx_vertx_web_3_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_vertx_vertx_web_client_3_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__io_vertx_vertx_web_common_3_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__javax_validation_validation_api_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_jsoup_jsoup_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymer_polymer_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_announcer_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_keys_behavior_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_fit_behavior_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_flex_layout_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_icon_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_iconset_svg_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_list_2_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_media_query_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_meta_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_overlay_behavior_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_resizable_behavior_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_scroll_target_behavior_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_license_checker_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_button_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_checkbox_2_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_combo_box_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_control_state_mixin_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_date_picker_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_development_mode_detector_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_dialog_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_element_mixin_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_form_layout_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_grid_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_icons_4_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_item_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_box_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_mixin_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_lumo_styles_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_notification_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_ordered_layout_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_overlay_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_progress_bar_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_radio_button_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_split_layout_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_tabs_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_text_field_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_themable_mixin_1_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_upload_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_1_0_0_optout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_shadycss_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_webcomponentsjs_1_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/modules/VaadinFlow_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/modules/VaadinFlow_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/VaadinFlow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/out/production/classes/klass/platform/training/admin/backend/models/Authentication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/out/production/classes/klass/platform/training/admin/ui/views/LoginView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/out/production/classes/klass/platform/training/admin/vaadinflow/VaadinFlowServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/out/production/classes/klass/platform/training/admin/vaadinflow/VaadinFlowUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/exceptions/InvalidCredentialsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/managers/AuthenticationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/managers/DatabaseManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/managers/DatabaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/testdata/UserData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/ui/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/ui/SecurePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/utilities/DataUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/login/utilities/DatabaseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/java/klass/platform/training/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/src/main/webapp/frontend/styles/vaadinflow-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/vaadinflow/VaadinFlowServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vert.x/VaadinFlow/vaadinflow/VaadinloginUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VaadinTemplate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_google_gwt_gwt_elemental_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_googlecode_gentyref_gentyref_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_helger_ph_commons_9_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_helger_ph_css_6_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_24_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_flow_client_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_flow_data_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_flow_html_components_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_flow_push_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_flow_server_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_10_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_board_flow_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_button_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_charts_flow_6_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_checkbox_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_combo_box_flow_1_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_core_10_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_date_picker_flow_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_dialog_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_form_layout_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_grid_flow_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_icons_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_iron_list_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_list_box_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_lumo_theme_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_notification_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_ordered_layout_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_progress_bar_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_radio_button_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_split_layout_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_tabs_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_text_field_flow_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_vaadin_upload_flow_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_board_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_charts_6_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__javax_validation_validation_api_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_jsoup_jsoup_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymer_polymer_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_announcer_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_keys_behavior_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_fit_behavior_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_flex_layout_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_icon_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_iconset_svg_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_list_2_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_media_query_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_meta_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_overlay_behavior_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_resizable_behavior_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_scroll_target_behavior_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_license_checker_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_button_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_checkbox_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_combo_box_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_control_state_mixin_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_date_picker_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_development_mode_detector_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_dialog_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_element_mixin_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_form_layout_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_grid_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_icons_4_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_item_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_box_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_mixin_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_lumo_styles_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_notification_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_ordered_layout_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_overlay_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_progress_bar_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_radio_button_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_split_layout_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_tabs_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_text_field_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_themable_mixin_1_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_upload_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_1_0_0_optout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_shadycss_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_webcomponentsjs_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/modules/myapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/modules/myapp_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/modules/myapp_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/myapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webservergradle/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webservergradle/VaadinFlow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webservergradle/Vert.x" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NewGithub/DetectronV85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NewGithub/Useful Notes/Detectron Service Notes (PLEASE READ)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NewGithub/Useful Notes/infer_simple.py Command" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NewGithub/Useful Notes/infer_simple.py notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NewGithub/Useful Notes/infer_simple.py notes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Useful Notes/Detectron Service Notes (PLEASE READ)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Useful Notes/infer_simple.py Command" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Useful Notes/infer_simple.py Command" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Useful Notes/infer_simple.py notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Useful Notes/infer_simple.py notes.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1269839140">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../examples/beverage-starter-flow-gradle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../myapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../webservergradle/VaadinFlow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../vertx-gradle-starter" value="PREVIEW" />
+        <entry key="$USER_HOME$/webservergradle" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Admin-System-Vertx-Vaadin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin-System-Vertx-Vaadin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin-System-Vertx-Vaadin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin-System-Vertx-Vaadin" type="462c0819:PsiDirectoryNode" />
+              <item name="VaadinFlow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Admin-System-Vertx-Vaadin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Admin-System-Vertx-Vaadin" type="462c0819:PsiDirectoryNode" />
+              <item name="Vert.x" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542709811202" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VaadinFlow/src/main" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57ff0437-c98a-4732-bc4a-ad28f09f5723" name="Default Changelist" comment="" />
+      <created>1542694996695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542694996695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="993" y="27" width="917" height="1053" extended-state="4" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43620503" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Admin-System-Vertx-Vaadin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

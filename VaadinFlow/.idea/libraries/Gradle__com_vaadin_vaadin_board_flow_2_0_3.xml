@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-board-flow:2.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-board-flow/2.0.3/378f779901c32c1da0dc90413b60960f3a479e0d/vaadin-board-flow-2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-board-flow/2.0.3/6eae48397fd2bfeebc3a9ca6c516c6ed58a6f8aa/vaadin-board-flow-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

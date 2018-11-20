@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VaadinFlow.iml" filepath="$PROJECT_DIR$/VaadinFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VaadinFlow_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VaadinFlow_main.iml" group="VaadinFlow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VaadinFlow_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VaadinFlow_test.iml" group="VaadinFlow" />
+    </modules>
+  </component>
+</project>

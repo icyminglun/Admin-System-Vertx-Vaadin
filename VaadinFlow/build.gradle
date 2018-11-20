@@ -1,0 +1,40 @@
+plugins {
+  id 'org.akhikhl.gretty' version '2.0.0'
+  id 'com.devsoap.vaadin-flow' version '1.0.0.M5'
+}
+
+// Automatically configure repositories and dependencies. For a more fine-grained example see
+// https://github.com/devsoap/gradle-vaadin-flow/wiki/Dependency-management
+// 'vaadin.autoconfigure()' is the easiest way to add all necessary repositories and dependencies. 'autoconfigure()' is a method of the plugin
+vaadin.autoconfigure()
+
+repositories {
+  jcenter()
+}
+
+version = '1.0-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+
+def vertxVersion = '3.5.4'
+def vertxWebVersion = '3.5.4'
+def vertxJDBCVersion = '3.5.4'
+
+dependencies {
+  
+  // Web C
+  compile "io.vertx:vertx-web-client:$vertxVersion"
+  compile "io.vertx:vertx-core:$vertxVersion"
+  compile "io.vertx:vertx-web:$vertxWebVersion"
+
+}
+
+
+
+
+
+
+
+
+
+
